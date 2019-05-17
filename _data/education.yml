@@ -1,9 +1,93 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- name: University of California, Berkeley
+  dates: 2015 - 2015
+  qualification: Summer Sessions A and C
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Made me learn so much
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    **CS 61C** - Great Ideas in Computer Architecture (Machine Structures)
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    **CS 188** - Introduction to Artificial Intelligence
+
+
+- name: University of California, Berkeley - Haas School of Business
+  dates: 2015 - 2015
+  qualification: Summer Sessions
+  quote: >
+    Made me learn business
+  description: | # this will include new lines to allow paragraphs
+    Business Administration : Innovation and Design
+
+    *Project management with professor Dr. Omar Romero-Hernandez*
+
+
+- name: California State University-Long Beach
+  dates: 2014 - 2015
+  qualification: |
+    Study Abroad Program
+
+    Computer Science
+
+  quote: >
+    Made me learn to work in another language
+  description: | # this will include new lines to allow paragraphs
+    **CECS 277** - Obj Oriented Appl Development
+
+    **CECS 328** - Data Structures and Algorithms
+
+    **CECS 449** - Computer Graphics
+
+    **CECS 478** - Intro to Computer Security
+
+- name: California State University-Long Beach
+  dates: 2014 - 2015
+  qualification: |
+    Study Abroad Program
+
+    American Language Instutute
+
+  quote: >
+    Made me love the USA
+  description: | # this will include new lines to allow paragraphs
+    **Passed Level E**
+
+    The mission of the American Language Institute (ALI) is to provide quality education that upholds the high academic standards and integrity of its affiliate campus, California State University, Long Beach (CSULB).
+
+    As a department within the College of Continuing and Professional Education, the self-support division on campus, the ALI responds to the needs of the local, national and international community. The ALI offers a variety of English Language programs. Our academic offerings include the Intensive English Program, Prep Program, MBA Preparation Program and university credit courses. Our professional offerings include Teaching English as a Foreign Language, workplace English, as well as customized short-term programs.
+
+- name: EPITECH - European Institute of Technology
+  dates: 2011 - 2016
+  qualification: Master's degree in Computer Science
+  quote: >
+    Made me learn development
+  description: | # this will include new lines to allow paragraphs
+    **GPA 3.88**
+
+    Tek 3
+      SoonSoon.
+
+    Tek 2
+      2nd Year - The second year is focused on system and network development, combining C and C++ with a bit of ASM (writing of commands allowing to manage the memory of a machine (malloc recode), the development of servers (IRC, FTP, Game, etc.)).
+
+    Tek 1
+      1st Year - Fundamentals (mainly in C) : Calculator that can handle infinite numbers, assembler, virtual machines, small games, shell...
+      This year provided the methodological basis and reflexes necessary to develop a logical approach to computing. Learning of personal organization and group work.
+
+- name: University of California, Berkeley
+  dates: 2013 - 2013
+  qualification: CS-191x - Quantum Mechanics and Quantum Computation
+  quote: >
+    Made me learn physics and computation
+  description: | # this will include new lines to allow paragraphs
+    *Grade : 100%*
+
+    Online EDX course : https://www.edx.org
+
+    BerkeleyX - Professor : Umesh V. Vazirani
+
+- name: Lycée Viala-Lacoste
+  dates: 2008 - 2011
+  qualification: Baccalaureat Scientifique SVT spé Physique
+  quote: >
+    Made me learn sciences
+  description: | # this will include new lines to allow paragraphs
+    **Magna cum laude**
