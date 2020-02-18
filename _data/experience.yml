@@ -1,3 +1,15 @@
+- company: Zenly
+  link: https://zen.ly/
+  job_title: Senior iOS Developer
+  dates: September 2019 - Now
+  location: Paris
+  quote: >
+    Best Friends Only.
+  description: | # this will include new lines to allow paragraphs
+    Working with the Growth Engineering Team, towards reaching goals and provide better user experience.
+
+    Helping on creating new features or modifying existing ones, worning on a freshly formed team, refactoring code, data analysis, taking desitions quickly, implementing them and safely move them in production to gather behavorial data as soon as possible.
+
 - company: Sounds
   link: https://www.sounds.am/
   jobs:
@@ -11,6 +23,7 @@
     Connecting the world with music.
   description: | # this will include new lines to allow paragraphs
     Working on the iOS App, a fully fledged social network.
+    
     Adding new features, managing a team, researching new paths, hacking, being part of the decision process and maintaining a highly growing app with over 5 million downloads across the world
 
 - company: LEXFO
