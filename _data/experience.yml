@@ -1,7 +1,14 @@
+- company: Thinking hard
+  dates: Now
+  location: Paris
+  quote: >
+    🤫
+  description: ...
+
 - company: Zenly
   link: https://zen.ly/
   job_title: Senior iOS Developer
-  dates: September 2019 - Now
+  dates: September 2019 - December 2022
   location: Paris
   quote: >
     Best Friends Only.
@@ -48,7 +55,7 @@
   quote: >
     Learn, Teach, Evaluate
   description: | # this will include new lines to allow paragraphs
-    Correction of first year student projects. 
+    Correction of first year student projects.
     Participation in educational sessions (supports, practical work, lectures)
 
 - company: C4MPROD
